@@ -6,4 +6,9 @@ then it only writes into disk after a threshold of chars are recorded in memory.
 
 # TODO
 - Uppercase logging.
-- Alt logging
+- Better key modifiers logging
+
+# Social Media
+- [Youtube](https://youtube.com/Melardev)
+- [Twitter](https://twitter.com/@melardev)
+- [Instagram](https://instagram.com/melar_dev)

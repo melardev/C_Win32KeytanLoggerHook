@@ -42,7 +42,7 @@ void OnKeyDown(int virtualKeyCode)
 
 		if (windowTitleLength > 0)
 		{
-			const int textLength = GetWindowText(hWnd, windowTitle, windowTitleLength + 1);
+			const int textLength = GetWindowText(hWnd, windowTitle, 255);
 
 			if (_tcscmp(windowTitle, lastWindowTitle) != 0)
 			{
